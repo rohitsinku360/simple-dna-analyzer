@@ -11,10 +11,11 @@ Features
 - Base Counting: Counts A, T, G, and C individually.
 - GC Percentage: Calculates the percentage of G and C bases in the sequence.
 - Case-Insensitive Input: Accepts both uppercase and lowercase DNA sequences.
+- The program runs in a loop and repeatedly accepts DNA sequences.
 
-Example
+Example:
 
-Valid Input
+•Valid Input
 
 Input
 
@@ -29,7 +30,7 @@ count of G is 1
 count of C is 1
 GC percentage in sequence is 50.0
 
-Invalid Input
+•Invalid Input
 
 Input
 
@@ -65,6 +66,10 @@ Concepts Used:
 - "break" statement
 - String methods: "upper()" and "count()"
 - "len()" and basic arithmetic
+
+Limitations:
+
+- There is currently no built-in exit option. The program continues to run until it is manually stopped.
 
 Learning Goal
 
