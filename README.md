@@ -41,7 +41,7 @@ Output
 invalid input!
 enter new sequence
 
-Empty Input
+•Empty Input
 
 Input
 
