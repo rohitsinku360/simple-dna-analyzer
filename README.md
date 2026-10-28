@@ -71,6 +71,10 @@ Limitations:
 
 - There is currently no built-in exit option. The program continues to run until it is manually stopped.
 
+Work in progress:
+
+- More updates and improvements coming as I learn.
+
 Learning Goal
 
 This project was created to practise Python fundamentals through a simple bioinformatics application.
